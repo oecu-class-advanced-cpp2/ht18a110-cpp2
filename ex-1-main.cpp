@@ -12,6 +12,7 @@ bool is_prime(int num) {
 	}
 }
 
+// “™·”—ñ‚Ìn”Ô–Ú‚Ì”‚ğ•Ô‚·ŠÖ”
 int nth_prime(unsigned int a, unsigned int d, unsigned int n) {
 	int current = a;
 	int count = 0;
